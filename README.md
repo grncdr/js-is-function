@@ -1,6 +1,6 @@
 # is-function
 
-[![browser support][https://ci.testling.com/grncdr/js-is-function.png]][https://ci.testling.com/grncdr/js-is-function]
+[![browser support](https://ci.testling.com/grncdr/js-is-function.png)](https://ci.testling.com/grncdr/js-is-function)
 
 Is that thing a function? Use this module to find out.
 
