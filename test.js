@@ -21,7 +21,7 @@ if (typeof window !== 'undefined') {
         
         t.ok(isFunction(window.alert), 'alert is a function')
 
-        window.testRegExpFromIframe (regexp) {
+        window.testRegExpFromIframe = function (regexp) {
             t.ok(!isFunction(regexp))
         }
         
