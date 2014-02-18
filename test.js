@@ -26,6 +26,7 @@ if (typeof window !== 'undefined') {
         }
         
         var iframe = document.createElement('iframe')
+        document.body.appendChild(iframe)
         
         iframe.contentWindow.document.write([
             "<html><body><script type=\"text/javascript\">",
