@@ -29,7 +29,7 @@ if (typeof window !== 'undefined') {
         
         iframe.contentWindow.document.write([
             "<html><body><script type=\"text/javascript\">",
-            "parent.testRegExpFromIframe(/a/)"
+            "parent.testRegExpFromIframe(/a/)",
             "</script></body></html>"
         ].join("\n"));
     })
