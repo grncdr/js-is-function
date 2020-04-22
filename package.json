@@ -1,6 +1,6 @@
 {
   "name": "is-function",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "is that thing a function? Use this module to find out",
   "main": "index.js",
   "dependencies": {},
